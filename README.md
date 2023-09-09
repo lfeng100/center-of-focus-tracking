@@ -1,8 +1,10 @@
 # Description
-Skeleton code for algorithms used for Research Project with Dr. Lesley Istead. 
+Code for algorithms used for Research Project with Dr. Lesley Istead. 
 Research pertains to developing an generalized algorithm to detect the center-of-action for sports footage.
 Please read the `Outline.docx` document for details. 
 The code has been briefly annotated. Start with heatmap.py or object_tracking.py. An incomplete combined approach (heatmap + object detection) in heatmap_od.py.
+
+### These algorithms have not been tested thoroughly and should be used as reference/guideline for future more complete implementations.
 
 # Dependencies
 Each program was ran in a conda environment. See `environment.yml` for dependencies. If you encounter versioning issues, the main libraries used is cv2 (opencv) and numpy, which may be installed manually.
