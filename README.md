@@ -1,5 +1,5 @@
 # center-of-focus-tracking
-Skeleton code for algorithms used for Research Project with Dr. Lesley Istead. Please read the Outlines document for more details. The code has been briefly annotated. Start with heatmap.py or object_tracking.py. Combined approach in heatmap_od.py.
+Skeleton code for algorithms used for Research Project with Dr. Lesley Istead. Please read the `Outline.docx` document for details. The code has been briefly annotated. Start with heatmap.py or object_tracking.py. Combined approach in heatmap_od.py.
 
 # Potential papers of interest
 https://arxiv.org/abs/2001.05238
