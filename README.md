@@ -1,5 +1,5 @@
 # center-of-focus-tracking
-Skeleton code for algorithms used for Research Project with Dr. Lesley Istead. Please read the Outlines document for more details. The code has been briefly annotated.
+Skeleton code for algorithms used for Research Project with Dr. Lesley Istead. Please read the Outlines document for more details. The code has been briefly annotated. Start with heatmap.py or object_tracking.py. Combined approach in heatmap_od.py.
 
 # Potential papers of interest
 https://arxiv.org/abs/2001.05238
@@ -10,3 +10,6 @@ https://www.researchgate.net/publication/338086954_Use_of_Machine_Learning_to_Au
 
 # Dependencies
 Each program was ran in a conda environment. See `environment.yml` for dependencies. If you encounter versioning issues, the main libraries used is cv2 (opencv) and numpy, which may be installed manually.
+
+# Additional Files
+The *.mp4 files are example input footage used for the programs, the code should work on any input (with varying degrees of success). The example_output folder contains some heatmap output from these example footage.
